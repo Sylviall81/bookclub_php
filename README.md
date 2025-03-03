@@ -88,9 +88,24 @@ To test the system without register, you can use the following test user:
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoH5-CuyuFCjDkaMwnWYFOWOAvutX_cIxItg&usqp=CAU" alt="mysql" style="margin: 5px" width="60" height="60"/>
 
 - **HTML/CSS/JS**: Para la estructura y la interfaz de usuario / For the structure and user interface.  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
 
-- **Clever Cloud**: Plataforma para el despliegue de la aplicación / Platform for app deployment.  
-  <img style="margin: 10px" src="https://cdn.clever-cloud.com/uploads/2021/08/new-logo-clever-cloud-1-768x0-c-center.webp" alt="Clever Cloud" height="50" />
+  ## Contribución / Contribution 🤝
+
+¡Las contribuciones son bienvenidas! Si deseas colaborar en este proyecto, sigue estos pasos:
+
+1. **Haz un fork** de este repositorio.
+2. **Crea tu rama** de características (`git checkout -b feature/nueva-caracteristica`).
+3. **Haz commit** de tus cambios (`git commit -m 'Agregué una nueva característica'`).
+4. **Haz push** a tu rama (`git push origin feature/nueva-caracteristica`).
+5. **Crea un Pull Request** en GitHub.
+
+Asegúrate de que tu código esté limpio y documentado antes de enviar la solicitud.
+
+---
+
+## Licencia / License 📝
+
+Este proyecto está bajo la Licencia MIT.
+
+---
