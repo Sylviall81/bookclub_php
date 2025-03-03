@@ -20,7 +20,7 @@ This project was created as part of the **PHP** 40-hour course at **CodeOp**. Th
 
 The interface design was created using the **TEMPLATED** template: [Retrospect](https://templated.co/retrospect/) 💻.
 
-The project is deployed on **Clever Cloud** and was the final project for the course.
+The project is deployed on **Clever Cloud** and was the final project for the course [Ver Live Demo](https://bit.ly/3XNTnE).
 
 You can view the **certificate** for the course here: [40 hours of technical training in PHP & MySQL](https://www.dropbox.com/scl/fi/sna2xyikwvnywk35mw91l/Diplomas_PHP01-Sylvia-Llorente.pdf?rlkey=t4qbde5eskv5z6z5nuyu7af6w&st=r8tixtln&dl=0).
 
@@ -66,30 +66,31 @@ To test the system without register, you can use the following test user:
 
 ---
 
-## Instalación ⚙️ / Installation ⚙️
-
 ### Requisitos 🛠️ / Requirements 🛠️
 
-- **PHP 7.4** o superior / **PHP 7.4** or higher.
+- **PHP 8** o superior / **PHP 8** or higher.
 - Servidor con soporte para bases de datos **SQL** (MySQL recomendado) / Server with support for **SQL** databases (MySQL recommended).
 
+<!-- 
 ### Pasos de Instalación 🔽 / Installation Steps 🔽
 
 1. **Clona el repositorio** / **Clone the repository**:
    ```bash
-   git clone https://github.com/tu-usuario/bookclub.git
+   git clone https://github.com/tu-usuario/bookclub.git  -->
 
 
-   ## Tecnologías 🛠️ / Technologies 🛠️
+## Tecnologías 🛠️ / Technologies 🛠️
 
-- **PHP**: Lenguaje de programación principal / Main programming language.
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmZNlAI2NdEjhFiVD1dG5igFfSAaFMaCF4xA&usqp=CAU" alt="php" style="margin: 5px" width="60" heigth="60"/>
+- **PHP**: Lenguaje de programación principal / Main programming language.  
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmZNlAI2NdEjhFiVD1dG5igFfSAaFMaCF4xA&usqp=CAU" alt="php" style="margin: 5px" width="60" height="60"/>
 
-- **MySQL**: Base de datos SQL / SQL Database.
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoH5-CuyuFCjDkaMwnWYFOWOAvutX_cIxItg&usqp=CAU" alt="mysql" style="margin: 5px" width="60" heigth="60"/>
-- **HTML/CSS/JS**: Para la estructura y la interfaz de usuario / For the structure and user interface.
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-- **Clever Cloud**: Plataforma para el despliegue de la aplicación / Platform for app deployment.
-<img style="margin: 10px" src="https://cdn.clever-cloud.com/uploads/2021/08/new-logo-clever-cloud-1-768x0-c-center.webp" alt="JavaScript" height="50" />
+- **MySQL**: Base de datos SQL / SQL Database.  
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoH5-CuyuFCjDkaMwnWYFOWOAvutX_cIxItg&usqp=CAU" alt="mysql" style="margin: 5px" width="60" height="60"/>
+
+- **HTML/CSS/JS**: Para la estructura y la interfaz de usuario / For the structure and user interface.  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+
+- **Clever Cloud**: Plataforma para el despliegue de la aplicación / Platform for app deployment.  
+  <img style="margin: 10px" src="https://cdn.clever-cloud.com/uploads/2021/08/new-logo-clever-cloud-1-768x0-c-center.webp" alt="Clever Cloud" height="50" />
