@@ -82,8 +82,11 @@ To test the system without register, you can use the following test user:
 
    ## Tecnologías 🛠️ / Technologies 🛠️
 
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmZNlAI2NdEjhFiVD1dG5igFfSAaFMaCF4xA&usqp=CAU" alt="php" style="margin: 5px" width="60" heigth="60"/>**PHP**: Lenguaje de programación principal / Main programming language.
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoH5-CuyuFCjDkaMwnWYFOWOAvutX_cIxItg&usqp=CAU" alt="mysql" style="margin: 5px" width="60" heigth="60"/> **MySQL**: Base de datos SQL / SQL Database.
+- **PHP**: Lenguaje de programación principal / Main programming language.
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmZNlAI2NdEjhFiVD1dG5igFfSAaFMaCF4xA&usqp=CAU" alt="php" style="margin: 5px" width="60" heigth="60"/>
+
+- **MySQL**: Base de datos SQL / SQL Database.
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoH5-CuyuFCjDkaMwnWYFOWOAvutX_cIxItg&usqp=CAU" alt="mysql" style="margin: 5px" width="60" heigth="60"/>
 - **HTML/CSS/JS**: Para la estructura y la interfaz de usuario / For the structure and user interface.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
