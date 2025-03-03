@@ -1,14 +1,13 @@
 <?php
 // Configuración general
 define('SITE_NAME', 'The Book Club');
-define('BASE_URL', 'http://www.myphpproject.net.mialias.net/bookclub');//hay q reemplazar con esto?http://www.myphpproject.net.mialias.net/index.php
+define('BASE_URL', 'https://app-828c7e83-e0b0-41c5-855f-c3cf129aecf1.cleverapps.io/');//hay q reemplazar con esto?http://www.myphpproject.net.mialias.net/index.php
 
 // Configuración de la base de datos
-define('DB_HOST', 'localhost'); //reemplazar con datos phpadmin
-define('DB_NAME', 'bookclubdb');
-define('DB_USER', 'mymyphpprod2');// user: mymyphpprod2 psswd: Vj8q0DlP
-define('DB_PASS', 'Vj8q0DlP');
-
+define('DB_HOST', 'b1rqdpwocrarevqbq2qs-mysql.services.clever-cloud.com'); //reemplazar con datos phpadmin
+define('DB_NAME', 'b1rqdpwocrarevqbq2qs');
+define('DB_USER', 'u6uds9yt2hhhbnhs');// user: mymyphpprod2 psswd: Vj8q0DlP
+define('DB_PASS', 'Vx2xIg0KSTec57MTmDPX');
 
 
 $referrer = isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] : BASE_URL.'/public';
