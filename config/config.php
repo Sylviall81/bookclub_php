@@ -1,11 +1,10 @@
 <?php
 // Configuración general
-define('SITE_NAME', 'The Book Club');
-define('BASE_URL', 'https://app-828c7e83-e0b0-41c5-855f-c3cf129aecf1.cleverapps.io/');
-define('DB_HOST', 'b1rqdpwocrarevqbq2qs-mysql.services.clever-cloud.com'); //reemplazar con datos phpadmin
-define('DB_NAME', 'b1rqdpwocrarevqbq2qs');
-define('DB_USER', 'u6uds9yt2hhhbnhs');
-define('DB_PASS', 'Vx2xIg0KSTec57MTmDPX');
+define('DB_HOST', getenv('MYSQL_ADDON_HOST'));      // Obtiene el host de la base de datos
+define('DB_NAME', getenv('MYSQL_ADDON_DB'));        // Obtiene el nombre de la base de datos
+define('DB_USER', getenv('MYSQL_ADDON_USER'));      // Obtiene el usuario de la base de datos
+define('DB_PASS', getenv('MYSQL_ADDON_PASSWORD'));  // Obtiene la contraseña de la base de datos
+define('DB_PORT', '3306');
 
 
 $referrer = isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] : BASE_URL.'/public';
