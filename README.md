@@ -8,7 +8,7 @@ Este proyecto fue creado como parte del curso de **PHP** de 40 horas en **CodeOp
 
 El diseño de la interfaz fue creado utilizando la plantilla de **TEMPLATED**: [Retrospect](https://templated.co/retrospect/) 💻.
 
-El proyecto está disponible en **Clever Cloud** y fue el proyecto final del curso.[Ver Live Demo](https://bit.ly/3XNTnEX)
+El proyecto está disponible en **Clever Cloud** y fue el proyecto final del curso.[Ver Live Demo](http://bit.ly/3XNTnEX)
 
 Puedes ver el **certificado** del curso aquí: [40 hours of technical training in PHP & MySQL](https://www.dropbox.com/scl/fi/sna2xyikwvnywk35mw91l/Diplomas_PHP01-Sylvia-Llorente.pdf?rlkey=t4qbde5eskv5z6z5nuyu7af6w&st=r8tixtln&dl=0).
 
